@@ -1,0 +1,16 @@
+{
+	"login": "登录",
+	"register": "注册",
+	"mobile_login": "手机登录",
+	"email_login": "邮箱登录",
+	"switch_language": "切换语言",
+	"privacy_policy": "隐私政策",
+	"terms_service": "服务条款",
+	"plz_phone": "请输入手机号",
+	"plz_email": "请输入邮箱",
+	"plz_login_pass": "请输入登录密码",
+	"plz_trans_pass": "请输入转账密码",
+	"empty_phone": "请输入手机号",
+	"empty_email": "请输入邮箱",
+	"empty_pass": "请输入密码",
+}
